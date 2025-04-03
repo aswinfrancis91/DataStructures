@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllSortsofSorts", "AllSortsofSorts\AllSortsofSorts.csproj", "{5E3B954B-194B-41F6-B85A-54D6E886326B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{8F15917A-8E0C-4A20-A154-602D9B303295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3B954B-194B-41F6-B85A-54D6E886326B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3B954B-194B-41F6-B85A-54D6E886326B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3B954B-194B-41F6-B85A-54D6E886326B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3B954B-194B-41F6-B85A-54D6E886326B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F15917A-8E0C-4A20-A154-602D9B303295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F15917A-8E0C-4A20-A154-602D9B303295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F15917A-8E0C-4A20-A154-602D9B303295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F15917A-8E0C-4A20-A154-602D9B303295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
