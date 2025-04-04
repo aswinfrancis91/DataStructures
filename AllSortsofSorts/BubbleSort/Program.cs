@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+Console.WriteLine("Bubble Sort");
+
 var arrayToSort = new int[] { 5, 8, 7, 5, 3 };
 var sortedArray = BubbleSort(arrayToSort);
 Console.WriteLine(string.Join(',', sortedArray.Select(x => x)));
